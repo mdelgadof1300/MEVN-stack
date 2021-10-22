@@ -1,2 +1,4 @@
-# MEVN-stack
-Fullstack MEVN To-do list con fecha de asignación y entrega
+# Stack con MEVN
+
+Proyecto del stack MEVN como práctica.
+
